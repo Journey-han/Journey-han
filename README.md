@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🌱 I’m currently learning web-devlepment.
+Try to fast learning, prefer to keep learning and continue challenging myself.
+I like to develop expertise in several areas throughout my life and career.
+
+✍Languages : Korean, English
+💻Skills : 
+
 <!--
 **Journey-han/Journey-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
