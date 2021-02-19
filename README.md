@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning web-devlepment.
-Try to fast learning, prefer to keep learning and continue challenging myself.
+Try to fast learn, prefer to keep learning and continue challenging myself.
 I like to develop expertise in several areas throughout my life and career.
 
 ✍Languages : Korean, English </br>
