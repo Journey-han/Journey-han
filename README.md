@@ -3,6 +3,7 @@
 🌱 I’m currently learning web-development. </br>
 Try to fast learn, prefer to keep learning and continue challenging myself. </br>
 I like to develop expertise in several areas throughout my life and career. </br>
+Feel free to get in touch by e-mail if you want any communication. </br>
 
 ✍Languages : Korean, English </br>
 💻Skills : 
