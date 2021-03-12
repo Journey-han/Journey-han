@@ -9,7 +9,7 @@ It is trying to update for high quality commit. Many Thanks.</br>
 </br>
 ✍Languages : Korean, English </br>
 💻Skills : </br>
-👯Like : AI, book, work out </br>
+👯Like : Book, Work-out, ML, DL, DS </br>
 
 <!--
 **Journey-han/Journey-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
