@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning web-development.  
+🌱 I’m currently working on web-development.  
 Try to fast learn, prefer to keep learning and continue challenging myself.  
 I'd like to develop expertise in several areas throughout my life and career.  
 Feel free to get in touch by e-mail if you want to communicate with me.  
